@@ -64,7 +64,3 @@ forward(5)
 right(90)
 forward(35)
 right(90)
-pendown()
-forward(45)
-
-exitonclick()
